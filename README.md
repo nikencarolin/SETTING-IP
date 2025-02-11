@@ -3,6 +3,7 @@
 1. Yang pertama kita buka CONTROL PANEL pada laptop kita, lalu klik "Network and internet"
 <img width="960" alt="Image" src="https://github.com/user-attachments/assets/50f4986b-fa79-4a8d-9e9d-2ac3515adeaf" />
 
+
 2. Setelah itu pilih "Network and sharing center"
 <img width="960" alt="Image" src="https://github.com/user-attachments/assets/72a538af-58f7-4415-9e3a-5b81ba0fc06d" />
 
