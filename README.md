@@ -1,5 +1,9 @@
 # SETTING-IP
 
+NAMA      : NIKEN CAROLIN
+NIM       : 09030282327071
+KELAS     : TEKNIK KOMPUTER 4C
+
 1. Yang pertama buka CONTROL PANEL pada laptop, lalu klik Network and internet
 <img width="960" alt="Image" src="https://github.com/user-attachments/assets/50f4986b-fa79-4a8d-9e9d-2ac3515adeaf" />
 
