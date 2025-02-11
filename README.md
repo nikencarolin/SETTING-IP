@@ -21,7 +21,7 @@ KELAS     : TEKNIK KOMPUTER 4C
 5. setelah itu klik internet protocol version 4 (TCP/IPv4) lalu ok
 <img width="960" alt="Image" src="https://github.com/user-attachments/assets/2f2ade10-648f-4c3e-93a0-d058f8140e8f" />
 
-6. lalu isi IP Address nya dengan 192.168.100.1 sedangkan pada laptop teman 192.168.100.2 dan subnet mask nya 255.255.255.0
+6. lalu isi IP Address nya dengan 192.168.100.1 sedangkan pada laptop teman 192.168.100.2 dan subnet mask nya 255.255.255.0, pilih ok
 <img width="960" alt="Image" src="https://github.com/user-attachments/assets/f3f06a75-fd51-4445-b792-7e07de9d6c4a" />
 
 7. jika sudah mengisi IP Address pastikan firewall mati, buka di control panel lalu pilih system and security
